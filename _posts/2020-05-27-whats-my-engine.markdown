@@ -3,7 +3,7 @@ layout: post
 title:  "What might be my true engine?"
 categories: [ Open Source, Personal, Journal, Outreachy ]
 author : Noor
-image: [alt Text](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6c7ea3e4-ae46-4237-842d-ffa82cadce41/d8detem-a852f0a8-d695-4f95-ac33-b6fcf051564e.gif)
+image: 
 
 ---
 
@@ -11,6 +11,10 @@ image: [alt Text](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6c7e
 
 ## Outreachy week 3
 As part of participating in Outreachy, which is a program for open source contribution that I'm taking part of this summer, We were asked a question regarding our core values.
+
+
+[Alt Text](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6c7ea3e4-ae46-4237-842d-ffa82cadce41/d8detem-a852f0a8-d695-4f95-ac33-b6fcf051564e.gif)
+
 
 I know that I have some inner compass that guide me while taking my life decesions, but I never put much thought into defining it, I know it exists and it just does the job whenever I need it, but the bad part about this, is that you drift sometimes and feel like you don't know yourself or what yous stand for.
 
