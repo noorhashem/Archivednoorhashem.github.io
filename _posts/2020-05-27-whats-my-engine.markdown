@@ -3,7 +3,7 @@ layout: post
 title:  "What might be my true engine?"
 categories: [ Open Source, Personal, Journal, Outreachy ]
 author : Noor
-image: ![Alt Text](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6c7ea3e4-ae46-4237-842d-ffa82cadce41/d8detem-a852f0a8-d695-4f95-ac33-b6fcf051564e.gif)
+image: [alt Text](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6c7ea3e4-ae46-4237-842d-ffa82cadce41/d8detem-a852f0a8-d695-4f95-ac33-b6fcf051564e.gif)
 
 ---
 
