@@ -20,7 +20,7 @@ So, faced by this question, I had to think about the values that matter to me in
 
 Before speaking about my 4 core values, I will share what we did in the exercise, because it wasn't just about defining our values but also how these values are balanced when we work within a team.
 
-<img src="/assets/images/PostsImages/coreValues/valuedynamic.jpg" alt="value square, depicting the value dynamics with its counter value" height="450">
+<div style="text-align: center"><img src="/assets/images/PostsImages/coreValues/valuedynamic.jpg" alt="value square, depicting the value dynamics with its counter value" height="450"></div>
 
 In this photo, an example core value was **Quietness**. When you think about a value,
 first :
@@ -38,10 +38,10 @@ at the end you should find some kind of a balance utilizing your values in a tea
 I remember in DPS workshop, I picked 'PURPOSE' this felt like my value back then. after picking it, we had to write down what does this value mean to us so we can define it and also we had to write down when do we feel it's fullfilled or met and share this with our teams.
 
 
-<img src="/assets/images/PostsImages/coreValues/purpose.jpg" alt="value picked : purpose" height="350">
+<div style="text-align: center"><img src="/assets/images/PostsImages/coreValues/purpose.jpg" alt="value picked : purpose" height="350"></div>
 
 
-<img src="/assets/images/PostsImages/coreValues/describepurpose.jpg" alt="describe what fullfills this value to you in the shape of a flower petals and the value in center" height="350">
+<div style="text-align: center"><img src="/assets/images/PostsImages/coreValues/describepurpose.jpg" alt="describe what fullfills this value to you in the shape of a flower petals and the value in center" height="350"></div>
 
 
 
@@ -51,7 +51,7 @@ in this photo for example, you start from the bottom right with an example of so
 
 
 
-<img src="/assets/images/PostsImages/coreValues/reversevaluedynamic.jpg" alt="reverse value square" height="450">
+<div style="text-align: center"><img src="/assets/images/PostsImages/coreValues/reversevaluedynamic.jpg" alt="reverse value square" height="450"></div>
 
 
 
@@ -70,7 +70,7 @@ I have growth as a value, because for me it acts as a metric that I use to be mi
 
 Eversince I was little, I always wanted to explore stuff by myself, of course you will always learn from others (which is something you cannot exclude, it's usually insightful and introduce a new perspective than your own or even corrects yours) but I really appreciate the learning path you take to explore and learn or do something on your own, the struggles you will meet or stuff that block you and you keep untangling issues untill you're there, this way you learn more about the process itself besides the thing that you wanted to actually learn and the good part is you can also help others, since you've taken the path from groud up and you've been there before. one other upside, is you learn on a new canvas, you don't get biased by what others think about something, you take your own impression and then you can check what the rest of the impressions/knowledge. I value self-reliance for another emotional aspect as well, which is when I realize I figured something while being self-reliant, it gives me confidence in believing in my own ways of doing things. sometimes you take some paths or decisions that are not what the rest of the people around you advise or pick, and it can feel a little bit lonely going down your own road, but when you manage to reach your goal with your own mindset and path, it's the most rewarding thing ever. I guess, what I also appreciate about self-reliance is the fact that you become indepepndent ( which is not synonomous to being disconnected or need no one)  but you can get by most of the time since you know how to handle stuff on your own, even if the things/people you depend on are not there for any reason. it's like code dependencies, the less the better to perform standalone. I guess maybe this value is influenced by my love for Mulan (Disney version) as a kid (now you know why all this mulan gifs) the fact that you go and just do what feels like the right thing even if you have to do it on your own and learn to take responsibility for your own actions, and sometimes this responsiblity can be of failure.
 
-<img src="/assets/images/PostsImages/coreValues/mulan-stone-dragon.jpg" alt="value picked : mulan trying so hard to get the arrow at the top of the pole" height="200" align="center">
+<div style="text-align: center"><img src="/assets/images/PostsImages/coreValues/mulan-stone-dragon.jpg" alt="value picked : mulan trying so hard to get the arrow at the top of the pole" height="200" align="center"></div>
 
 
 ## 3. Openness
