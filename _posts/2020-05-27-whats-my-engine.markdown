@@ -7,7 +7,7 @@ image: /assets/images/PostsImages/coreValues/mulan-cover.jpg
 
 ---
 
-# Core Values - Outreachy week 3
+# Core Values : Outreachy week 3
 As part of participating in Outreachy, which is a program for open source contribution that I'm taking part of this summer, We were asked a question regarding our core values.
 
 <img src="/assets/images/PostsImages/coreValues/mulan_Reflection.png" alt="value square, depicting the value dynamics with its counter value" height="450">
