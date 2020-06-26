@@ -3,14 +3,14 @@ layout: post
 title:  "What might be my true engine?"
 categories: [ Open Source, Personal, Journal, Outreachy ]
 author : Noor
-image: /assets/images/PostsImages/coreValues/mulan-cover.jpg
+image: assets/images/PostsImages/coreValues/mulan-cover.jpg
 
 ---
 
 # Core Values : Outreachy week 3
 As part of participating in Outreachy, which is a program for open source contribution that I'm taking part of this summer, We were asked a question regarding our core values.
 
-<img src="/assets/images/PostsImages/coreValues/mulan_Reflection.png" alt="value square, depicting the value dynamics with its counter value" height="400">
+<img src="/assets/images/PostsImages/coreValues/mulan_Reflection.png" alt="value square, depicting the value dynamics with its counter value" height="350">
 
 
 I know that I have some inner compass that guide me while taking my life decesions, but I never put much thought into defining it, I know it exists and it just does the job whenever I need it, but the bad part about this, is that you drift sometimes and feel like you don't know yourself or what yous stand for.
