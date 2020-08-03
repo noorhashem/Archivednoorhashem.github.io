@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How I started working on the Firefox iOS app and my intro to contributing to open source code"
+title:  "Working on the Firefox iOS app and my intro to contributing to open source code"
 categories: [ Open Source, Code, iOS ]
 image: assets/images/PostsImages/firstOpenSourceContribution/firefox.jpg
 author : Noor
@@ -12,7 +12,7 @@ After working for a while on my own iOS projects, I wanted to try working on big
 
 The program is called Outreachy and the whole purpose of it is to encourage more people to kick off their open source journies and pick a project that they contribute to full-time for 3 months and get paid. The great thing about Outreachy , is that they are really inclusive and they stress in every occassion on the importance of building a supportive community that's open for all and that encourages underepresented individuals in tech to participate, the community organisers are responsive and so is the maintainers/mentors responsible for each project depending on which one you pick.
 
-<a href="https://www.outreachy.org/"><img src="/assets/images/PostsImages/coreValues/valuedynamic.jpg" alt="first issue" height="170"></a>
+<a href="https://www.outreachy.org/"><img src="/assets/images/PostsImages/firstOpenSourceContribution/outreachy.png" alt="first issue" height="170"></a>
 
 The projects that took part in the program were very interesting and they were sophisticated enough for you to enhance your skills and learn while building them but at the same time there were enough projects for different levels of expertise for everyone to pick. The companies and institutions who took part were big to mention some : Apache, Mozilla, CC, Wikimedia, Fedora and Tor and various other recognizable entites in the open source community.
 
@@ -93,14 +93,17 @@ also these are resources that might help kickstarting the journey :
 
     [Google Summer of Code](https://summerofcode.withgoogle.com/)
 
+3. **A compiled repo of open source programs**
 
-3. **Guide to Open Source contribution by Github**
+    [Open Source Programs](https://github.com/tapaswenipathak/Open-Source-Programs)
+
+4. **Guide to Open Source contribution by Github**
 
     [Guide Here](https://opensource.guide/how-to-contribute/)
     
     it also has some pretty good resources at the end for places to find open issues and projects to contribute to.
 
-4. **Browsing Github**     
+5. **Browsing Github**     
     contributing to open source code doesn't have to be for big code bases, you can pick any tool you enjoy or any repository that interets you and try to solve issues or suggest enhancements to it. I'm sure the maintainers will appreciate it.
 
 
