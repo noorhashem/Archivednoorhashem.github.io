@@ -55,6 +55,7 @@ You can find all the conversations made regarding both features and how they wer
 4. On WWDC 2020, Apple introduced entirely new widgets to iOS, with a new API and they were on the homescreen instead of residing in the notification center. That introduced new opportunities to explore for me since I was working on the widget and a call for having a home screen widget for firefox à la iOS 14 was much expected.
 
 5. I had to do research on how Apple's Widget Kit works, so I checked their WWDC talks and code alongs and made a summarized doc for the API. Luckily, a contributer made a PR for the new design using Swift UI, which I took and built on top of it the new features that we were building for the old Today Widget.
+
     [UX research for the new iOS14 Widgets](https://github.com/mozilla-mobile/firefox-ios/issues/6936#event-3576519888)
 
     [iOS14 Widget Implementation](https://github.com/mozilla-mobile/firefox-ios/pull/7051)
@@ -62,8 +63,33 @@ You can find all the conversations made regarding both features and how they wer
 6. I'm at milestone 6 now! At the moment, new designs and features for iOS14 are being researched and I'm working on polishing the code + writing Unit tests for the widget.
 
 
-### The How?
+### The How? 
+###### Nobody said it was eaaasaaey
 
+In this section, as you might have guessed, I was going to speak about the struggles. because there is no How without a "WHY GOD AM I GETTING THIS ERROR! FOR GOD'S SAKE!"
+
+I will try to categorize the problems I faced and how they were overcome (as much as my memory allows me to) some of which were merely because it was my first time handling these kind of issue and some were just because my laptop or Xcode were just haunted 🤷🏻‍
+
+1. Snapkit and Constraints
+
+2. Buttons
+
+3. Stackviews
+
+4. the MVVM
+
+5. Accessibility
+
+6. Carthage issues
+
+7. Working with multiple Xcodes/Swift versions and command line tools
+
+8. support for earlier iOS versions
+
+9. The Today Widget as an independent target
+
+
+### The state of mind while untangling the misery of the How
 
 ### Tips from your Ma
 
