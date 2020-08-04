@@ -21,7 +21,7 @@ then someone suggested these websites which are really cool :
 
 [Hemingway App](http://hemingwayapp.com)
 
-[The Up-Goer Five text editor](https://splasho.com/upgoer5/) this one is inspired by an [XKCD Comic] (https://xkcd.com/1133/)
+[The Up-Goer Five text editor](https://splasho.com/upgoer5/) this one is inspired by an [XKCD Comic](https://xkcd.com/1133/)
 
 It was a hard challenge for me, since I'm more used to the technical terms, and sometimes you can't explain something technical because simply there's no words to accomodate for it in normal terms.
 
@@ -35,15 +35,20 @@ I'm working on the browser's Widget. A browser: is the program you use to naviga
 I was required to redesign the widget and add more features to it. The process went as follows : 
 
 1. Doing research on what features might be useful to the user to have there or were requested in user reviews
-    There was an opened spike to come up with useful features to add to the widget and the UX team sharing the redesign with the engineering team. [Spike](https://github.com/mozilla-mobile/firefox-ios/issues/6661#issuecomment-64577666) 
+    There was an opened spike to come up with useful features to add to the widget and the UX team sharing the redesign with the engineering team. 
+    
+    [Spike](https://github.com/mozilla-mobile/firefox-ios/issues/6661#issuecomment-64577666) 
 
 2. After redesigning the app, came up issues that need to be handled after testing with the new design, after migrating to the new visual design. a code refactoring was in need. We wanted to shift the extension's code to the MVVM architecture.
 
 3. After making a design document for the refactoring and refactoring the code to a new architecture, came the time for speculating the features like how to handle the navigating to the copied link better and also adding another feature which was closing all private browsing tabs from the widget. 
+
     [Go to copied link feature opened issue](https://github.com/mozilla-mobile/firefox-ios/issues/6935)
+
     [Go to copied link feature PR](https://github.com/mozilla-mobile/firefox-ios/pull/6956)
 
     [Close private tabs feature opened issue](https://github.com/mozilla-mobile/firefox-ios/issues/6794)
+
     [Close private tabs feature PR](https://github.com/mozilla-mobile/firefox-ios/pull/6971#pullrequestreview-458879860)
 
 You can find all the conversations made regarding both features and how they were implemented in the PRs.
