@@ -7,9 +7,9 @@ image: assets/images/PostsImages/coreValues/mulan-cover.jpg
 
 ---
 
+# Core Values
 
-
-# Outreachy Week 3 Entry
+##### Outreachy Entry 1
 
 
 As part of participating in Outreachy, which is a program for open source contribution that I'm taking part of this summer, We were asked a question regarding our core values.
