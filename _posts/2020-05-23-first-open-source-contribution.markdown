@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Working on the Firefox iOS app and my intro to contributing to open source code"
-categories: [ Open Source, Code, iOS ]
+categories: [ Open Source, Code, iOS, Outreachy ]
 image: assets/images/PostsImages/firstOpenSourceContribution/firefox.jpg
 author : Noor
 ---
