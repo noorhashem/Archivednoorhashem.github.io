@@ -2,8 +2,8 @@
 layout: post
 title:  "Getting stuck with stuff like a pro"
 categories: [Outreachy]
-author : Noor
 image: assets/images/PostsImages/GettingStuckWithThings/inexplicable_2x.png
+author : Noor
 ---
 
 
@@ -57,12 +57,16 @@ You can find all the conversations made regarding both features and how they wer
 
 5. I had to do research on how Apple's Widget Kit works, so I checked their WWDC talks and code alongs and made a summarized doc for the API. Luckily, a contributer made a PR for the new design using Swift UI, which I took and built on top of it the new features that we were building for the old Today Widget.
     [UX research for the new iOS14 Widgets](https://github.com/mozilla-mobile/firefox-ios/issues/6936#event-3576519888)
+
     [iOS14 Widget Implementation](https://github.com/mozilla-mobile/firefox-ios/pull/7051)
 
 6. I'm at milestone 6 now! At the moment, new designs and features for iOS14 are being researched and I'm working on polishing the code + writing Unit tests for the widget.
 
 
 ### The How?
+
+
+### Tips from your Ma
 
 
 
