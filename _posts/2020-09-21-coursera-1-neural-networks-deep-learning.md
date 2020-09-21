@@ -20,7 +20,7 @@ A binary classification problem that a neural network could solve is a cat calss
 
 i.e) an image of 64px is converted into a feature vector of 64X64X3 size = 12288 (n), since its RGB values are going to be matrices of 64X64 size.
 
-###Notation
+### Notation
 
 <img src="/assets/images/PostsImages/DeepLearningCoursera1Blog1/Screen Shot 2020-09-21 at 2.34.11 AM.png" alt="notation shot" width="700">
 
