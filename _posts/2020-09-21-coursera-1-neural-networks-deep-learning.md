@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Deeplearning.ai Neural Networks and Deep Learning Week 1 & Week 2"
-categories: [ Machine Learning ]
+categories: [ Machine Learning, Study Notes ]
 image: 
 author : Noor
 ---
