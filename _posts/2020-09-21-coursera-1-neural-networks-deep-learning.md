@@ -11,7 +11,6 @@ author : Noor
 
 # Week 1
 
-
 # Week 2
 
 ## Logistic Regression as a Nerual Network
@@ -23,7 +22,8 @@ i.e) an image of 64px is converted into a feature vector of 64X64X3 size = 12288
 
 ###Notation
 
-<img src="/assets/images/PostsImages/DeepLearningCoursera1Blog1/Screen Shot 2020-09-21 at 2.34.11 AM.png" alt="notation shot" width="400">
+<img src="/assets/images/PostsImages/DeepLearningCoursera1Blog1/Screen Shot 2020-09-21 at 2.34.11 AM.png" alt="notation shot" width="700">
+
 
  * Training example -> (x,y), where x belongs to the feature vector of size n and y belongs to the output vector of values of either {0,1}.
 
