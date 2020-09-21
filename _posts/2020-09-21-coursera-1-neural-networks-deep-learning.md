@@ -11,6 +11,11 @@ author : Noor
 
 # Week 1
 
+
+
+
+
+
 # Week 2
 
 ## Logistic Regression as a Nerual Network
