@@ -7,6 +7,8 @@ author : Noor
 ---
 
 
+
+
 # Week 1
 
 
@@ -20,5 +22,15 @@ A binary classification problem that a neural network could solve is a cat calss
 i.e) an image of 64px is converted into a feature vector of 64X64X3 size = 12288 (n), since its RGB values are going to be matrices of 64X64 size.
 
 ###Notation
- * Training example -> (x,y) , χ ∈ R ^(n _x )
+ * Training example -> (x,y), where x belongs to the feature vector of size n and y belongs to the output vector of values of either {0,1}.
+
+ * m -> training examples set : {(x^(1),y^(1)),(x^(2),y^(2).....)}
+
+ * X -> feature matrix, where each column is a single training example's feature vector values X^(1), X^(2), X^(3), and each row is a single feature's values across the different training examples. so the feature matrix size = m (# of training examples) x nx (number of features in each feature vector)
+
+ * Y -> output matrix, is a matrix of size 1xm, it's basically a matrix of one row and multiple columns that constitutes the outputs per training example y^(1),y^(2),y^(3)...y^(m)
+
+
+ 
+
 
