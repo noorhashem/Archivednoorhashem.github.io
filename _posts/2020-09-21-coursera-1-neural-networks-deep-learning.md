@@ -26,8 +26,7 @@ A binary classification problem that a neural network could solve is a cat calss
 i.e) an image of 64px is converted into a feature vector of 64X64X3 size = 12288 (n), since its RGB values are going to be matrices of 64X64 size.
 
 ### Notation
-
-<img src="/assets/images/PostsImages/DeepLearningCoursera1Blog1/Screen Shot 2020-09-21 at 3.23.44 AM.png" alt="notation shot" width="700">
+<img src="/assets/images/PostsImages/DeepLearningCoursera1Blog1/Screen Shot 2020-09-21 at 2.34.11 AM.png" alt="notation shot" width="700">
 
 
  * Training example -> (x,y), where x belongs to the feature vector of size n and y belongs to the output vector of values of either {0,1}.
@@ -41,7 +40,7 @@ i.e) an image of 64px is converted into a feature vector of 64X64X3 size = 12288
 
 ### Logistic Regression
 
-<img src="/assets/images/PostsImages/DeepLearningCoursera1Blog1/Screen Shot 2020-09-21 at 2.34.11 AM.png" alt="notation shot" width="700">
+<img src="/assets/images/PostsImages/DeepLearningCoursera1Blog1/Screen Shot 2020-09-21 at 3.23.44 AM.png" alt="notation shot" width="700">
 
 In logistic regression we take an input which is x that belongs to a feature vector of size nx and we want to output a value either 0 or 1, this can be an indication of the probability of the occurance of a certain event (a photo that has a cat in it), given a certain x as an input y^ = P(y=1 | x)
 
