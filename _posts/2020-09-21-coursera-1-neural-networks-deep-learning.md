@@ -20,5 +20,5 @@ A binary classification problem that a neural network could solve is a cat calss
 i.e) an image of 64px is converted into a feature vector of 64X64X3 size = 12288 (n), since its RGB values are going to be matrices of 64X64 size.
 
 ###Notation
- * Training example -> (x,y) , $$\inline x \in \mathbb{R}^n_n$$
+ * Training example -> (x,y) , χ ∈ R ^(n _x )
 
